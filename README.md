@@ -18,3 +18,26 @@
 5. Run `pip install -r requirements.py`.
 
 6. Run the script
+
+
+## Author
+
+👤 **Emmanuel Simasiku**
+- GitHub: [@githubhandle](https://github.com/Mukumbuta)
+- Twitter: [@twitterhandle](https://twitter.com/Mukumbuta8)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/mukumbuta)
+
+## 🤝 Contributing
+Contributions, issues, and feature requests are welcome!
+Feel free to check the [issues page](../../issues/).
+
+## Show your support
+Give a ⭐️ if you like this project!
+
+## Acknowledgments
+- Hat tip to anyone whose code snippet was used for...
+- Inspiration
+- etc
+
+## 📝 License
+This project is [MIT](./MIT.md) licensed.
